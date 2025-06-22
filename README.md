@@ -22,4 +22,4 @@ Apaixonado por tecnologia, computação e programação!
 ## Principais projetos
 - [TCC mobile de chamada de emergência em flutter](https://github.com/edu74narut/TCC_Flutter)</br>
 - [Sistema de gerenciamento de estoque](https://github.com/edu74narut/pjt_Administrador_Estoque)</br>
-- [Gerador de relatório PDF automátizado](https://github.com/edu74narut/Gerador-De-PDF/tree/main)
+- [Gerador de relatório PDF automatizado](https://github.com/edu74narut/Gerador-De-PDF/tree/main)
